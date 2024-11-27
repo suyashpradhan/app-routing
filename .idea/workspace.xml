@@ -5,13 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6e20044-1814-4e11-99f8-641c2c795b15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/beto.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/retweet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tweet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TweetContent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/Feed.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/Notifications.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/Users.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -34,9 +59,12 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2pMEbpr1BJv8ilnmbvhcBNMIeIV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,13 +72,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.git.unshallow": "true",
     "code.cleanup.on.save": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/suyashpradhan/Learnings/app-routing",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "rearrange.code.on.save": "true",
     "settings.editor.selected.configurable": "actions.on.save",
-    "ts.external.directory.path": "/Users/suyashpradhan/Learnings/app-routing/node_modules/typescript/lib"
+    "ts.external.directory.path": "/Users/suyashpradhan/Learnings/app-routing/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="ReactDesignerToolWindowState">
@@ -58,8 +92,18 @@
       <map>
         <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
         <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
       </map>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -76,7 +120,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732567618903</updated>
-      <workItem from="1732567619974" duration="259000" />
+      <workItem from="1732567619974" duration="2001000" />
+      <workItem from="1732611864222" duration="21158000" />
     </task>
     <servers />
   </component>
