@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6e20044-1814-4e11-99f8-641c2c795b15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/screens/Details.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/Home.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/beto.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/comment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/like.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/retweet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/share.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/splash-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Navigation.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Tweet.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/TweetContent.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/Feed.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/Notifications.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/Users.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Details.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Details.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,11 +106,22 @@
       <updated>1732567618903</updated>
       <workItem from="1732567619974" duration="2001000" />
       <workItem from="1732611864222" duration="24191000" />
-      <workItem from="1733138390176" duration="5402000" />
+      <workItem from="1733138390176" duration="9433000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
