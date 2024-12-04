@@ -9,13 +9,15 @@ const Stack = createNativeStackNavigator()
 const RootStack = () => {
     return (
         <Stack.Navigator initialRouteName="Products" screenOptions={{
-            headerStyle:
-                {backgroundColor: "red"},
-            headerTintColor: "white",
+            headerStyle: {
+                backgroundColor: "white"
+            },
+            headerTintColor: "black",
         }}>
             <Stack.Screen name="Products" options={{title: "Products"}} component={ProductScreen}/>
-            <Stack.Screen name="Details" component={Details}
-                          options={{headerBackVisible: true, title: "Product Details"}}/>
+            <Stack.Screen name="Details" component={Details} options={({route}) => ({
+                headerBackVisible: true, title: `Product Details ${route.params?.itemId?.toString()}`
+            })}/>
         </Stack.Navigator>
     )
 }
